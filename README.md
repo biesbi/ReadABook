@@ -1,4 +1,4 @@
-/*  class MainActivity : AppCompatActivity() {
+    class MainActivity : AppCompatActivity() {
     lateinit var etIsim: EditText
     lateinit var rgCinsiyet: RadioGroup
     lateinit var rbErkek: RadioButton
